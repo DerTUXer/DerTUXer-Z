@@ -41,6 +41,7 @@ cp -r config/dunst/ ~/.config
 cp -r config/rofi/ ~/.config
 # cp -r config/neowofetch/ ~/.config
 cp -r config/ranger/ ~/.config
+cp -r config/picom/ ~/.config
 cp -r config/polybar/ ~/.config
 cp -r config/zathura/ ~/.config
 cp config/guide.pdf ~/.config
